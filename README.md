@@ -31,6 +31,19 @@ __Automation testing__
   * Proficient in API automation testing using tools such as Postman
     
 ## Tools
+![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
+![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
+![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
+![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
+![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
+![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Stats
 <p align="left">
